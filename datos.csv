@@ -1,0 +1,155 @@
+Tratamiento,Bloque,Planta,Viruta,Copa,Total,Diam_copa,N_rama
+T0,1,planta 1,1025,8340,9365,1.2,4
+T0,1,planta 2,1255,675,1930,1.2,5
+T0,1,planta 3,1545,3245,4790,1.5,14
+T0,1,planta 4,1360,3725,5085,1.5,15
+T0,1,planta 5,2330,5275,7605,1.4,7
+T0,1,planta 6,465,2655,3120,0.9,5
+T0,1,planta 7,715,6245,6960,1,6
+T0,1,planta 8,955,2735,3690,1,6
+T0,1,planta 9,680,2065,2745,0.5,8
+T0,1,planta 10,2300,1605,3905,2,10
+T0,2,planta 1,1620,4860,6480,1.8,12
+T0,2,planta 3,1210,1380,2590,1,10
+T0,2,planta 5,960,1690,2650,1.1,4
+T0,2,planta 6,1400,5260,6660,2,10
+T0,2,planta 7,520,1905,2425,0.8,7
+T0,2,planta 8,1615,7715,9330,1.9,13
+T0,2,planta 9,1655,2605,4260,1.7,8
+T0,3,planta 1,455,3470,3925,1,3
+T0,3,planta 2,490,3695,4185,0.9,3
+T0,3,planta 3,555,3380,3935,1.5,5
+T0,3,planta 4,370,1310,1680,0.7,5
+T0,3,planta 5,620,3335,3955,1.2,4
+T0,3,planta 7,395,1805,2200,1.7,7
+T0,3,planta 8,710,5115,5825,0.8,6
+T0,3,planta 10,1825,3500,5325,1.3,8
+T1: Ca Mg ,1,planta 1,890,4755,5645,1.3,7
+T1: Ca Mg ,1,planta 2,1180,1261,2441,1.5,5
+T1: Ca Mg ,1,planta 3,1260,2155,3415,1.5,14
+T1: Ca Mg ,1,planta 4,595,2665,3260,1.3,7
+T1: Ca Mg ,1,planta 5,1950,5535,7485,1.7,12
+T1: Ca Mg ,1,planta 6,1175,710,1885,1,5
+T1: Ca Mg ,1,planta 9,1105,4355,5460,1.4,6
+T1: Ca Mg ,1,planta 10,845,3605,4450,1.3,9
+T1: Ca Mg ,2,planta 1,1330,2970,4300,1.3,6
+T1: Ca Mg ,2,planta 2,1385,3760,5145,1.6,7
+T1: Ca Mg ,2,planta 4,1700,7655,9355,1.2,10
+T1: Ca Mg ,2,planta 5,1025,2415,3440,1,5
+T1: Ca Mg ,2,planta 6,2145,1730,3875,1.9,12
+T1: Ca Mg ,2,planta 7,1350,6295,7645,1.1,7
+T1: Ca Mg ,2,planta 8,720,1710,2430,1.1,7
+T1: Ca Mg ,2,planta 9,960,1910,2870,1,7
+T1: Ca Mg ,2,planta 10,585,2640,3225,1.1,9
+T1: Ca Mg ,3,planta 1,1525,900,2425,2,14
+T1: Ca Mg ,3,planta 2,1340,1250,2590,1,7
+T1: Ca Mg ,3,planta 3,770,1055,1825,1,5
+T1: Ca Mg ,3,planta 4,390,6375,6765,1.4,8
+T1: Ca Mg ,3,planta 5,1420,2855,4275,1.1,7
+T1: Ca Mg ,3,planta 6,1310,400,1710,1.2,10
+T1: Ca Mg ,3,planta 8,705,2400,3105,1.2,6
+T1: Ca Mg ,3,planta 10,575,4100,4675,1.4,7
+T2: Ca Mg+N,1,planta 1,1145,6560,7705,1.3,4
+T2: Ca Mg+N,1,planta 2,870,1090,1960,0.5,10
+T2: Ca Mg+N,1,planta 3,1630,6210,7840,1.6,10
+T2: Ca Mg+N,1,planta 4,1820,3995,5815,1.3,12
+T2: Ca Mg+N,1,planta 5,989,6000,6989,1.5,16
+T2: Ca Mg+N,1,planta 7,2605,5695,8300,2,15
+T2: Ca Mg+N,1,planta 8,1235,3090,4325,1.3,6
+T2: Ca Mg+N,1,planta 10,1730,1530,3260,1.4,10
+T2: Ca Mg+N,2,planta 1,880,5035,5915,1.1,6
+T2: Ca Mg+N,2,planta 2,705,3210,3915,1.5,7
+T2: Ca Mg+N,2,planta 3,785,2665,3450,0.9,3
+T2: Ca Mg+N,2,planta 4,440,2600,3040,0.9,4
+T2: Ca Mg+N,2,planta 5,1035,2690,3725,1.1,5
+T2: Ca Mg+N,2,planta 7,825,7060,7885,1.7,8
+T2: Ca Mg+N,2,planta 8,540,3955,4495,1.1,8
+T2: Ca Mg+N,2,planta 9,1395,3985,5380,0.6,4
+T2: Ca Mg+N,2,planta 10,390,1480,1870,0.8,4
+T2: Ca Mg+N,3,planta 1,1135,2415,3550,1.2,7
+T2: Ca Mg+N,3,planta 2,1045,1910,2955,1.7,8
+T2: Ca Mg+N,3,planta 3,900,3375,4275,2,16
+T2: Ca Mg+N,3,planta 4,585,2510,3095,2.1,15
+T2: Ca Mg+N,3,planta 5,1785,7120,8905,1.1,10
+T2: Ca Mg+N,3,planta 6,825,3220,4045,2,12
+T2: Ca Mg+N,3,planta 7,980,1265,2245,2.3,10
+T2: Ca Mg+N,3,planta 8,615,2885,3500,1.2,10
+T2: Ca Mg+N,3,planta 9,650,2420,3070,1.4,10
+T2: Ca Mg+N,3,planta 10,2855,2090,4945,2.1,20
+T3: Nutrirplus,1,planta 1,940,4480,5420,1.7,11
+T3: Nutrirplus,1,planta 2,765,2740,3505,1.1,8
+T3: Nutrirplus,1,planta 3,2490,3475,5965,2,15
+T3: Nutrirplus,1,planta 4,950,4745,5695,1.6,10
+T3: Nutrirplus,1,planta 6,2060,2380,4440,1.9,19
+T3: Nutrirplus,1,planta 8,2430,1125,3555,2.3,16
+T3: Nutrirplus,1,planta 10,1700,3320,5020,1.4,6
+T3: Nutrirplus,2,planta 1,1275,5340,6615,1.9,8
+T3: Nutrirplus,2,planta 2,1080,6835,7915,1.4,10
+T3: Nutrirplus,2,planta 3,645,1125,1770,1.4,4
+T3: Nutrirplus,2,planta 4,1700,4190,5890,1.8,10
+T3: Nutrirplus,2,planta 5,1015,2960,3975,1.2,8
+T3: Nutrirplus,2,planta 6,2210,5045,7255,1.5,8
+T3: Nutrirplus,2,planta 7,1880,3090,4970,1.8,9
+T3: Nutrirplus,2,planta 8,765,2235,3000,1.7,9
+T3: Nutrirplus,2,planta 9,610,2155,2765,1.7,7
+T3: Nutrirplus,2,planta 10,2580,4385,6965,1.2,8
+T3: Nutrirplus,3,planta 2,840,4300,5140,1.4,10
+T3: Nutrirplus,3,planta 3,395,1825,2220,1.1,5
+T3: Nutrirplus,3,planta 4,425,1760,2185,1.1,6
+T3: Nutrirplus,3,planta 7,385,2125,2510,0.3,3
+T3: Nutrirplus,3,planta 8,635,4160,4795,1.3,8
+T3: Nutrirplus,3,planta 9,915,2825,3740,1.1,8
+T3: Nutrirplus,3,planta 10,1350,4425,5775,1.2,7
+T4: Ca Mg+ N+Nutrirplus,1,planta 1,2430,4610,7040,1.8,15
+T4: Ca Mg+ N+Nutrirplus,1,planta 2,1275,1335,2610,0.8,4
+T4: Ca Mg+ N+Nutrirplus,1,planta 3,1630,1760,3390,1.3,8
+T4: Ca Mg+ N+Nutrirplus,1,planta 4,910,1645,2555,0.8,5
+T4: Ca Mg+ N+Nutrirplus,1,planta 5,1415,1945,3360,1.8,10
+T4: Ca Mg+ N+Nutrirplus,1,planta 6,415,8490,8905,1,4
+T4: Ca Mg+ N+Nutrirplus,1,planta 7,600,4310,4910,0.9,7
+T4: Ca Mg+ N+Nutrirplus,1,planta 8,740,3175,3915,1,7
+T4: Ca Mg+ N+Nutrirplus,1,planta 9,545,5475,6020,1,4
+T4: Ca Mg+ N+Nutrirplus,1,planta 10,1385,2010,3395,1.8,17
+T4: Ca Mg+ N+Nutrirplus,2,planta 2,800,2765,3565,1.2,7
+T4: Ca Mg+ N+Nutrirplus,2,planta 3,935,1265,2200,1.5,7
+T4: Ca Mg+ N+Nutrirplus,2,planta 4,825,765,1590,0.8,4
+T4: Ca Mg+ N+Nutrirplus,2,planta 5,965,1415,2380,1.2,6
+T4: Ca Mg+ N+Nutrirplus,2,planta 6,1360,3150,4510,1.7,11
+T4: Ca Mg+ N+Nutrirplus,2,planta 7,1690,3585,5275,1.5,12
+T4: Ca Mg+ N+Nutrirplus,2,planta 8,905,1555,2460,0.9,4
+T4: Ca Mg+ N+Nutrirplus,2,planta 9,830,1925,2755,0.7,4
+T4: Ca Mg+ N+Nutrirplus,3,planta 1,2975,3715,6690,1.5,10
+T4: Ca Mg+ N+Nutrirplus,3,planta 2,965,2905,3870,0.7,4
+T4: Ca Mg+ N+Nutrirplus,3,planta 3,760,3235,3995,1.5,10
+T4: Ca Mg+ N+Nutrirplus,3,planta 4,2195,805,3000,1.7,10
+T4: Ca Mg+ N+Nutrirplus,3,planta 5,1445,1330,2775,1.2,8
+T4: Ca Mg+ N+Nutrirplus,3,planta 6,1460,4490,5950,1.4,10
+T4: Ca Mg+ N+Nutrirplus,3,planta 7,1120,2790,3910,1.4,6
+T4: Ca Mg+ N+Nutrirplus,3,planta 8,635,3950,4585,1.3,7
+T4: Ca Mg+ N+Nutrirplus,3,planta 9,1560,2330,3890,0.8,6
+T4: Ca Mg+ N+Nutrirplus,3,planta 10,1874,5975,7849,1.5,15
+T5: Ca Mg + Nutrirplus,1,planta 1,505,1695,2200,1,6
+T5: Ca Mg + Nutrirplus,1,planta 2,635,850,1485,0.6,4
+T5: Ca Mg + Nutrirplus,1,planta 4,1495,2305,3800,1.5,8
+T5: Ca Mg + Nutrirplus,1,planta 6,760,4140,4900,1.7,9
+T5: Ca Mg + Nutrirplus,1,planta 7,690,2280,2970,1.3,10
+T5: Ca Mg + Nutrirplus,1,planta 8,1065,4035,5100,1.6,9
+T5: Ca Mg + Nutrirplus,1,planta 9,740,3085,3825,1.2,12
+T5: Ca Mg + Nutrirplus,1,planta 10,820,5495,6315,1.9,12
+T5: Ca Mg + Nutrirplus,2,planta 2,740,1310,2050,1.2,8
+T5: Ca Mg + Nutrirplus,2,planta 4,1415,7835,9250,1.8,20
+T5: Ca Mg + Nutrirplus,2,planta 5,850,5900,6750,1.4,10
+T5: Ca Mg + Nutrirplus,2,planta 6,875,6715,7590,1.4,15
+T5: Ca Mg + Nutrirplus,2,planta 7,1885,1215,3100,1.9,12
+T5: Ca Mg + Nutrirplus,2,planta 8,715,1145,1860,1.1,5
+T5: Ca Mg + Nutrirplus,2,planta 9,885,3505,4390,1.6,7
+T5: Ca Mg + Nutrirplus,2,planta 10,955,4450,5405,1,10
+T5: Ca Mg + Nutrirplus,3,planta 1,700,1340,2040,1.2,5
+T5: Ca Mg + Nutrirplus,3,planta 3,990,3425,4415,1.4,8
+T5: Ca Mg + Nutrirplus,3,planta 4,460,1965,2425,2,11
+T5: Ca Mg + Nutrirplus,3,planta 5,630,7420,8050,0.9,3
+T5: Ca Mg + Nutrirplus,3,planta 6,835,1405,2240,1.2,3
+T5: Ca Mg + Nutrirplus,3,planta 7,1130,2055,3185,1.3,6
+T5: Ca Mg + Nutrirplus,3,planta 8,1065,4995,6060,1.1,5
+T5: Ca Mg + Nutrirplus,3,planta 9,385,3795,4180,0.9,5
+T5: Ca Mg + Nutrirplus,3,planta 10,350,1975,2325,0.9,3
