@@ -1,0 +1,29 @@
+---
+title: "Analisis de Fertilización en Yerba Mate con particula Nano Mineral en suspensión líquida"
+output: github_document
+---
+
+```{r setup, include=F}
+knitr::opts_chunk$set(echo = F)
+```
+
+## Resumen
+
+El objetivo de la experimentación es obtener datos fiables que permiten establecer comparaciones entre distintos tratamientos y apoyar o rechazar hipotesis de trabajo. El siguiente informe muestra los resultados de un ensayo de fertilización realizado en plantaciones de yerba mate (Ilex paraguariensis Mill.) en la localidad de San Pedro, Provincia de Misiones.
+## Diseño
+
+You can include R code in the document as follows:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
